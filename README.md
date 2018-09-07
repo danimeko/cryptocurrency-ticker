@@ -1,0 +1,1 @@
+This is react cryptocurrency ticker app 
